@@ -462,10 +462,11 @@ DIN A3, landscape with location and doc. field</description>
 <text x="326.39" y="-55.88" size="2.54" layer="94">V1.0</text>
 <text x="241.3" y="-55.88" size="1.27" layer="94">github.com/makersmakingchange/Flex-Battery-Interrupter</text>
 <text x="297.18" y="-50.8" size="1.6764" layer="94">Milad Hajihassan</text>
+<text x="243.84" y="-40.64" size="1.6764" layer="94">Based on design by Dale Grover</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="-48.26" y="-60.96" smashed="yes">
-<attribute name="DRAWING_NAME" x="295.91" y="-40.64" size="2.1844" layer="94"/>
+<attribute name="DRAWING_NAME" x="295.91" y="-40.64" size="1.9304" layer="94"/>
 <attribute name="SHEET" x="309.245" y="-55.88" size="2.54" layer="94"/>
 </instance>
 <instance part="SW" gate="G$1" x="238.76" y="160.02" smashed="yes">
