@@ -2,7 +2,7 @@
 
 A battery interrupter is a simple, affordable device that enables you to switch adapt many battery powered electronics devices and toys. The battery interrupt is slipped in between the batteries or battery and battery terminal, breaking the circuit until a switch is attached and closed.
 
-The goal of this project is to create a battery interrupter using flex PCB and a mono/stereo 3.5mm audio jack.
+This device is a battery interrupter based on a flexible PCB with a mono/stereo 3.5 mm audio jack.
 
 The original design was created by Dale Grover which is called [Flex_Battery_Interrupter_200](https://github.com/makersmakingchange/Flex-Battery-Interrupter/tree/develop/Design_Files/PCB/Flex_Battery_Interrupter_200). 
 
