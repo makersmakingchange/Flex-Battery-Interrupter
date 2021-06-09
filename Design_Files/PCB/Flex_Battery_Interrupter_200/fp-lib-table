@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name flexarupter_1.01)(type KiCad)(uri ${KIPRJMOD}/Flex_Battery_Interrupter_200.pretty)(options "")(descr ""))
+)
