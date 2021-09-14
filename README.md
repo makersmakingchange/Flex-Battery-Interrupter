@@ -53,7 +53,7 @@ Board type: Single piece
 
 ### Components 
 
-The main component of Flex Battery Interrupter is a 3.5mm Stereo Jack which is listed in [Flex_Battery_Interrupter_BOM](https://github.com/makersmakingchange/Flex-Battery-Interrupter/tree/main/Design_Files/PCB_Files/Flex_Battery_Interrupter_100).
+The main component of Flex Battery Interrupter is a 3.5mm Stereo Jack which is listed in [Flex_Battery_Interrupter_BOM](https://github.com/makersmakingchange/Flex-Battery-Interrupter/blob/main/Documentation/V1.0/Flex_Battery_Interrupter_BOM_v1.0.csv).
 
 
 ## More Information 
