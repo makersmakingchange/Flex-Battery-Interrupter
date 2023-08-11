@@ -1,4 +1,4 @@
-# Flex-Battery-Interrupter
+# Flex Battery Interrupter
 
 A battery interrupter is a simple, affordable device that enables you to switch adapt many battery powered electronics devices and toys. The battery interrupt is slipped in between the batteries or battery and battery terminal, breaking the circuit until a switch is attached and closed.
 
@@ -54,6 +54,42 @@ Board type: Single piece
 ### Components 
 
 The main component of Flex Battery Interrupter is a 3.5mm Stereo Jack which is listed in [Flex_Battery_Interrupter_BOM](https://github.com/makersmakingchange/Flex-Battery-Interrupter/blob/main/Documentation/V1.0/Flex_Battery_Interrupter_BOM_v1.0.csv).
+
+
+## Attribution
+Dale Grover contributed to the inital idea and design of the battery interrupter using a flexible PCB. 
+
+The PCB, 3D printable jack enclosure and all documentation was completed by Makers Making Change..
+
+## License
+Copyright (c) 2022 Neil Squire / Makers Making Change.
+
+This repository describes Open Hardware:
+ - Everything needed or used to design, make, test, or prepare the Flex Battery Interrupter is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W)](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) .
+  - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Ivy Nunchuck Joystick Adapter are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+
+You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-W v2 (https:/cern.ch/cern-ohl).
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-W v2 for applicable conditions.
+
+Source Location: https://github.com/makersmakingchange/Flex-Battery-Interrupter
+
+
+---
+
+## About Makers Making Change
+<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+
+Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
+
+Makers Making Change is committed to creating and cultivating a network of volunteer makers who support people with disabilities in their communities through cost-effective Open Assistive Technology. MMC hosts a library of free, open-source designs complete with parts lists and build instructions.
+
+ - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
+ - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
+ - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+
+
 
 
 ## More Information 
