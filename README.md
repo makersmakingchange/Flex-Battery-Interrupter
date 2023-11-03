@@ -57,9 +57,10 @@ The main component of Flex Battery Interrupter is a 3.5mm Stereo Jack which is l
 
 
 ## Attribution
+### Contributors
 Dale Grover contributed to the inital idea and design of the battery interrupter using a flexible PCB. 
 
-The PCB, 3D printable jack enclosure and all documentation was completed by Makers Making Change..
+The PCB, 3D printable jack enclosure, and all documentation was completed by Makers Making Change.
 
 ## License
 Copyright (c) 2022 Neil Squire / Makers Making Change.
@@ -78,20 +79,20 @@ Source Location: https://github.com/makersmakingchange/Flex-Battery-Interrupter
 ---
 
 ## About Makers Making Change
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
 
-Makers Making Change is committed to creating and cultivating a network of volunteer makers who support people with disabilities in their communities through cost-effective Open Assistive Technology. MMC hosts a library of free, open-source designs complete with parts lists and build instructions.
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
 
-
-
-
-## More Information 
-
-You can get more information about the Flex Battery Interrupter by creating an issue here or posting your questions in the [Flex Battery Interrupter thread](https://forum.makersmakingchange.com/t/battery-interrupter-flexible-pcb/1520) on MakersMakingChange forum.
+### Contact Us
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
