@@ -10,6 +10,9 @@ The shorter model was created to offer an even more affordable option which is c
 
 The difference between the two models is simply the length of the battery interrupter. 
 
+## Makers Making Change Assistive Device Library
+ - https://www.makersmakingchange.com/s/product/battery-interrupter-flex-pcb/01tJR000000694IYAQ
+
 ## Flex PCB Models
 
 The design files for the two models are available and can be found using following links:
@@ -76,8 +79,9 @@ Please see the CERN-OHL-W v2 for applicable conditions.
 Source Location: https://github.com/makersmakingchange/Flex-Battery-Interrupter
 
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -96,3 +100,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
